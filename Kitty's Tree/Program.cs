@@ -75,7 +75,6 @@ namespace Kitty_s_Tree
                 double mod = ans % (Math.Pow(10, 9) + 7);
                 Console.WriteLine(mod);
             }
-
         }
 
         static IEnumerable<Tuple<int, int>> Combination(List<int> nodeSet)
