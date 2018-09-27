@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitty's Tree", "Kitty's Tree\Kitty's Tree.csproj", "{86BC783E-0B85-4BD9-97F7-98F349A5F12C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road", "Road\Road.csproj", "{6CF4C306-F136-4EEC-901C-51102C2C9827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absolute Solution", "Absolute Solution\Absolute Solution.csproj", "{57F62518-157F-42EB-827F-FDC6ACF9313B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{86BC783E-0B85-4BD9-97F7-98F349A5F12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86BC783E-0B85-4BD9-97F7-98F349A5F12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86BC783E-0B85-4BD9-97F7-98F349A5F12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF4C306-F136-4EEC-901C-51102C2C9827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF4C306-F136-4EEC-901C-51102C2C9827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF4C306-F136-4EEC-901C-51102C2C9827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF4C306-F136-4EEC-901C-51102C2C9827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F62518-157F-42EB-827F-FDC6ACF9313B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F62518-157F-42EB-827F-FDC6ACF9313B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F62518-157F-42EB-827F-FDC6ACF9313B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F62518-157F-42EB-827F-FDC6ACF9313B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
