@@ -26,7 +26,7 @@ namespace Absolute_Solution {
                 int[] ns = new int[1];
                 ns[0] = -1;
                 return ns;
-            }
+            } 
         }
         static int[] ans;
         static bool inputNum(HashSet<int> upToNow, HashSet<int> numbersLeft, int pos, int k) {
